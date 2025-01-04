@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "modern warship thai",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://media.discordapp.net/attachments/1267418461915840679/1324999710489972808/IMG_20250104_141533_216.jpg?ex=677a31a4&is=6778e024&hm=56b322a5e3bd9ce3fdeb3ce3b33a7abaeba1cf6f141fc1326d5a49e4265a627d&", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "ทะเลไม่มีวันสิ้นสุด",
     email: "",
